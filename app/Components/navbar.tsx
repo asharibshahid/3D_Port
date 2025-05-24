@@ -129,7 +129,7 @@ const PremiumNavbar = () => {
               ref={(el) => { 
                 linksRef.current[index] = el; 
               }}
-              href={`#${item.toLowerCase()}`}
+              href={`/${item.toLowerCase()}`}
               className="text-base sm:text-lg relative overflow-hidden transition-all duration-300 ease-out"
               style={{ 
                 color: '#a0a0a0',
