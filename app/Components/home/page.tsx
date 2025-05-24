@@ -212,13 +212,13 @@ const PortfolioLanding = () => {
             }`}
             style={{ animationDelay: '2s' }}
           >
-            <Link href="/work" >
+            <Link href="/Components/work" >
             <button  className="group px-8 py-4 bg-gradient-to-r from-cyan-500 to-purple-600 text-white font-semibold rounded-full hover:scale-105 transition-all duration-300 flex items-center space-x-2 hover:shadow-2xl hover:shadow-cyan-500/25">
               <span>View My Work</span>
             
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button></Link>
-            <Link href="/contact">
+            <Link href="/Components/contact">
             <button className="px-8 py-4 border-2 border-cyan-400 text-cyan-400 font-semibold rounded-full hover:bg-cyan-400 hover:text-black transition-all duration-300 hover:scale-105">
               Get In Touch
             </button>
