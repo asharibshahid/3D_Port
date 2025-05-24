@@ -68,7 +68,7 @@ const PortfolioWorkShowcase: React.FC = () => {
       client: "Food Industry",
       year: "2023-2024",
       tags: ["Logo Design", "Food", "Restaurant", "Catering"],
-      imageUrl: "/img9"
+      imageUrl: "/img9.jpg"
     },
     {
       id: 5,
@@ -78,7 +78,7 @@ const PortfolioWorkShowcase: React.FC = () => {
       client: "Female First Initiative",
       year: "2023",
       tags: ["NGO", "Empowerment", "Social", "Logo Design"],
-      imageUrl: "img7"
+      imageUrl: "/img7.jpg"
     },
   
     {
@@ -111,7 +111,7 @@ const PortfolioWorkShowcase: React.FC = () => {
       client: "Female First Initiative",
       year: "2023",
       tags: ["NGO", "Empowerment", "Social", "Logo Design"],
-      imageUrl: "img8"
+      imageUrl: "/img8.jpg"
     },
   ];
 
